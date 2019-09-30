@@ -1,4 +1,5 @@
 # Tarea_3
+Francisco Valdenegro
 
 Ejercicio 1:
 -Al reemplazar el 5 por un 0, la consola arroja "list()", lo cual indica que en la posición 0 hay ub cero.

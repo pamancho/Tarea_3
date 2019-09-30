@@ -27,6 +27,7 @@ Ejercicio 8:
 Ahora se adaptó el código for para que mostrara que número de la lista es par y cual es impar. 
 
 Ejercicio 9:
+se genera un codigo para determinar el ganador de una votacion entre si y no, el resuldao con un ejemplo: determinar_ganador(100,59,41) -> como resultado que gana la opcion si. 
 
 Ejercicio 10:
 Se crea una función que depende de dos valores, a y b; posteriormente se realiza la suma, resta, multiplicación y división entre estos valores con un ejemplo de 3 y 4.
